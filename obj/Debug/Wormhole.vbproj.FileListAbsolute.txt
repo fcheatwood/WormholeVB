@@ -1,0 +1,12 @@
+C:\Users\fcadd\Desktop\Visual Studio 2019\Projects\Wormhole\bin\Debug\Wormhole.exe.config
+C:\Users\fcadd\Desktop\Visual Studio 2019\Projects\Wormhole\bin\Debug\Wormhole.exe
+C:\Users\fcadd\Desktop\Visual Studio 2019\Projects\Wormhole\bin\Debug\Wormhole.pdb
+C:\Users\fcadd\Desktop\Visual Studio 2019\Projects\Wormhole\bin\Debug\Wormhole.xml
+C:\Users\fcadd\Desktop\Visual Studio 2019\Projects\Wormhole\obj\Debug\Wormhole.vbprojAssemblyReference.cache
+C:\Users\fcadd\Desktop\Visual Studio 2019\Projects\Wormhole\obj\Debug\Wormhole.Form1.resources
+C:\Users\fcadd\Desktop\Visual Studio 2019\Projects\Wormhole\obj\Debug\Wormhole.Resources.resources
+C:\Users\fcadd\Desktop\Visual Studio 2019\Projects\Wormhole\obj\Debug\Wormhole.vbproj.GenerateResource.cache
+C:\Users\fcadd\Desktop\Visual Studio 2019\Projects\Wormhole\obj\Debug\Wormhole.vbproj.CoreCompileInputs.cache
+C:\Users\fcadd\Desktop\Visual Studio 2019\Projects\Wormhole\obj\Debug\Wormhole.exe
+C:\Users\fcadd\Desktop\Visual Studio 2019\Projects\Wormhole\obj\Debug\Wormhole.xml
+C:\Users\fcadd\Desktop\Visual Studio 2019\Projects\Wormhole\obj\Debug\Wormhole.pdb
